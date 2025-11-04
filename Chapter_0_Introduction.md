@@ -3,6 +3,7 @@
 # Introduction
 ## Organizational Enablement Hierarchy
 
+ 
 Every organization is built in layers.  
 Some visible. Most invisible.  
 All interdependent.
@@ -58,3 +59,16 @@ Each chapter explores one layer in depth: its purpose, common pitfalls, and acti
 By the end, you’ll see your organization not as a collection of people and processes — but as a living, layered system that you can intentionally design, reinforce, and elevate.
 
 Let’s begin at the foundation: **Internal & External Resources.**
+
+## Table of Contents
+
+- [Chapter 0 — Introduction](./Chapter_0_Introduction.md)
+- [Chapter 1 — Internal & External Resources](./Chapter_1_Internal_and_External_Resources.md)
+- [Chapter 2 — People, Skills & Talent](./Chapter_2_People_Skills_and_Talent.md)
+- [Chapter 3 — Team Structures & Roles](./Chapter_3_Team_Structures_and_Roles.md)
+- [Chapter 4 — Processes & Systems](./Chapter_4_Processes_and_Systems.md)
+- [Chapter 5 — Leadership & Governance](./Chapter_5_Leadership_and_Governance.md)
+- [Chapter 6 — Culture, Values & Mindset](./Chapter_6_Culture_Values_and_Mindset.md)
+- [Chapter 7 — Strategy](./Chapter_7_Strategy.md)
+- [Chapter 8 — Vision](./Chapter_8_Vision.md)
+- [Epilogue — Applying the Hierarchy](./Epilogue_Applying_the_Hierarchy.md)
